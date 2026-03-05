@@ -1,0 +1,1 @@
+gcc -o nigger.exe test.c src/ctsvm.c
