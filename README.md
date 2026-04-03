@@ -1,2 +1,3 @@
-# CTS-VM
-My simple VM. Shit performance, but usable
+# DISCONTINUED!
+
+Im cooking something better
